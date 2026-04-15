@@ -1,5 +1,7 @@
 # 🛰️ ABIS — Adaptive Behaviour Intelligence System
 
+## 📸 Dashboard Preview
+![ABIS Dashboard](dashboard.png)
 > Real-time anomaly detection + drift monitoring system  
 > Built with FastAPI ⚡ + Streamlit 📊 + Machine Learning 🤖
 
